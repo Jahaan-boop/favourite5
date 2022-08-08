@@ -139,3 +139,8 @@ a {
 html {
     scroll-behavior: smooth;
 }
+.contact{
+ font-family: 'Baloo Tammudu 2', cursive;
+ background-color:wheat;
+ text-align:center;
+}
